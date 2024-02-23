@@ -1,2 +1,6 @@
 Hello this is a dummy text file created for practising Git and Github
 Bye..!
+<<<<<<< HEAD
+=======
+Added this text from the github..!
+>>>>>>> 712e6640a2212a24ddaf4370fedfacfb048e436e
